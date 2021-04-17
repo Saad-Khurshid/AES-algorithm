@@ -1,0 +1,10 @@
+﻿  aes_encrpyt.c
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(146): warning C4090: 'function': different 'const' qualifiers
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(291): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(301): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(316): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(327): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(355): warning C4013: 'getch' undefined; assuming extern returning int
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(379): warning C4101: 'temp': unreferenced local variable
+e:\8th semester\cs\mid project\projectspace\aes_encode\aes_encode\aes_encrpyt.c(380): warning C4101: 'temp1': unreferenced local variable
+  aes_encode.vcxproj -> E:\8th semester\cs\mid project\projectSpace\aes_encode\Debug\aes_encode.exe

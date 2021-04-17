@@ -1,0 +1,11 @@
+﻿  aes_decrypt.c
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(247): warning C4090: 'function': different 'const' qualifiers
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(391): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(401): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(415): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(426): warning C4047: '=': 'unsigned char' differs in levels of indirection from 'char [2]'
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(453): warning C4013: 'getch' undefined; assuming extern returning int
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(462): warning C4101: 'ck': unreferenced local variable
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(477): warning C4101: 'temp': unreferenced local variable
+e:\8th semester\cs\mid project\projectspace\aes_decode\aes_decode\aes_decrypt.c(478): warning C4101: 'temp1': unreferenced local variable
+  aes_decode.vcxproj -> E:\8th semester\cs\mid project\projectSpace\aes_decode\Debug\aes_decode.exe
